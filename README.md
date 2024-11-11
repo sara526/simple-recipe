@@ -1,0 +1,2 @@
+# simple-recipe
+frontend project
