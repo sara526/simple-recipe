@@ -1,2 +1,3 @@
-## simple-recipe
+# simple-recipe
 frontend project
+### Notes
